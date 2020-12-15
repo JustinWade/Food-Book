@@ -1,0 +1,27 @@
+.recipe {
+    padding-bottom: 2em;
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px rgb(71, 71, 71);
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background: white;
+    align-items: center;
+    text-align: left;
+    min-width: 40%;
+}
+
+ol {
+    word-break: break-all;
+    margin-left: 20px;
+}
+
+li {
+    padding-left: 25px;
+}
+
+img {
+    margin: 40px;
+
+}
